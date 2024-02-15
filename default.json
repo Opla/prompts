@@ -2,7 +2,7 @@
     {
         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
         "name": "Blog post",
-        "description": "Write me a 500-word blog post",
+        "description": "Write me a 500-word blog post.",
         "createdAt": 1664150400000,
         "updatedAt": 1664150400000,
         "title": "Blog post",
@@ -20,7 +20,7 @@
     {
         "id": "d290f1ee-6c54-4b01-90e6-d701748f0853",
         "name": "Follow back email",
-        "description": "Create a thank you email template",
+        "description": "Create a thank you email template.",
         "createdAt": 1664150400000,
         "updatedAt": 1664150400000,
         "title": "Follow back email",
@@ -29,7 +29,7 @@
     {
         "id": "d290f1ee-6c54-4b01-90e6-d701748f0854",
         "name": "Explain complex concept",
-        "description": "Can you explain this concept in simple terms",
+        "description": "Can you explain this concept in simple terms.",
         "createdAt": 1664150400000,
         "updatedAt": 1664150400000,
         "title": "Explain complex concept",
